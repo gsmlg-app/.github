@@ -1,5 +1,7 @@
 name: Update Profile README
 
+permissions: write
+
 on:
   schedule:
     - cron: '0 0 * * 0' # Runs at 00:00 on Sunday
