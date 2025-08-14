@@ -24,9 +24,14 @@ jobs:
 
       - name: Run update script
         env:
-          PERSON_TOKEN: ${{ secrets.PERSON_TOKEN }}
+          PERSON_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           ORG_NAME: 'gsmlg-app'
-        run: python update_readme.py
+        run: |
+          if [ -z "$PERSON_TOKEN" ]; then
+            echo "Error: PERSON_TOKEN is not set. Please add it to your repository secrets."
+            exit 1
+          fi
+          python .github/update_readme.py
 
       - name: Commit and push if changed
         run: |
