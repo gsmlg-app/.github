@@ -17,5 +17,7 @@ The development information of `gsmlg.app`.
 | [mobile-hex-pm](https://github.com/gsmlg-app/mobile-hex-pm) | Dart | 0 | 0 |
 | [medical-records](https://github.com/gsmlg-app/medical-records) | Dart | 0 | 0 |
 | [tele_deck](https://github.com/gsmlg-app/tele_deck) | Dart | 0 | 0 |
+| [data_visualization](https://github.com/gsmlg-app/data_visualization) | Dart | 0 | 0 |
+| [beam_vm](https://github.com/gsmlg-app/beam_vm) | Dart | 0 | 0 |
 
 <!-- REPO_LIST:END -->
