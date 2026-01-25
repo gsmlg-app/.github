@@ -19,5 +19,6 @@ The development information of `gsmlg.app`.
 | [tele_deck](https://github.com/gsmlg-app/tele_deck) | Dart | 0 | 0 |
 | [data_visualization](https://github.com/gsmlg-app/data_visualization) | Dart | 0 | 0 |
 | [beam_vm](https://github.com/gsmlg-app/beam_vm) | Dart | 0 | 0 |
+| [homelab-simulator](https://github.com/gsmlg-app/homelab-simulator) | Dart | 0 | 0 |
 
 <!-- REPO_LIST:END -->
