@@ -7,7 +7,7 @@ The development information of `gsmlg.app`.
 <!-- REPO_LIST:START -->
 | Repository | Language | Stars | Forks |
 |------------|----------|-------|-------|
-| [Flutter-Neumorphic](https://github.com/gsmlg-app/Flutter-Neumorphic) | Dart | 18 | 12 |
+| [Flutter-Neumorphic](https://github.com/gsmlg-app/Flutter-Neumorphic) | Dart | 19 | 13 |
 | [semaphore-client](https://github.com/gsmlg-app/semaphore-client) | Dart | 10 | 2 |
 | [flutter_launcher_icons_maker](https://github.com/gsmlg-app/flutter_launcher_icons_maker) | Dart | 9 | 0 |
 | [material-neumorphic](https://github.com/gsmlg-app/material-neumorphic) | Dart | 3 | 0 |
@@ -20,5 +20,6 @@ The development information of `gsmlg.app`.
 | [data_visualization](https://github.com/gsmlg-app/data_visualization) | Dart | 0 | 0 |
 | [beam_vm](https://github.com/gsmlg-app/beam_vm) | Dart | 0 | 0 |
 | [homelab-simulator](https://github.com/gsmlg-app/homelab-simulator) | Dart | 0 | 0 |
+| [caddy-app](https://github.com/gsmlg-app/caddy-app) | Dart | 0 | 0 |
 
 <!-- REPO_LIST:END -->
