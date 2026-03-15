@@ -21,5 +21,6 @@ The development information of `gsmlg.app`.
 | [beam_vm](https://github.com/gsmlg-app/beam_vm) | Dart | 0 | 0 |
 | [homelab-simulator](https://github.com/gsmlg-app/homelab-simulator) | Dart | 0 | 0 |
 | [caddy-app](https://github.com/gsmlg-app/caddy-app) | Dart | 0 | 0 |
+| [json-log-inspector](https://github.com/gsmlg-app/json-log-inspector) | Dart | 0 | 0 |
 
 <!-- REPO_LIST:END -->
