@@ -12,7 +12,7 @@ The development information of `gsmlg.app`.
 | [flutter_launcher_icons_maker](https://github.com/gsmlg-app/flutter_launcher_icons_maker) | Dart | 9 | 0 |
 | [material-neumorphic](https://github.com/gsmlg-app/material-neumorphic) | Dart | 3 | 0 |
 | [syntax_highlighter](https://github.com/gsmlg-app/syntax_highlighter) | Dart | 2 | 1 |
-| [flutter-app-template](https://github.com/gsmlg-app/flutter-app-template) | Dart | 1 | 0 |
+| [flutter-app-template](https://github.com/gsmlg-app/flutter-app-template) | Dart | 2 | 0 |
 | [tele_deck](https://github.com/gsmlg-app/tele_deck) | Dart | 1 | 0 |
 | [beam_vm](https://github.com/gsmlg-app/beam_vm) | Dart | 1 | 0 |
 | [.github](https://github.com/gsmlg-app/.github) | N/A | 0 | 0 |
@@ -25,5 +25,7 @@ The development information of `gsmlg.app`.
 | [json-log-inspector](https://github.com/gsmlg-app/json-log-inspector) | Dart | 0 | 0 |
 | [air-bridge](https://github.com/gsmlg-app/air-bridge) | Swift | 0 | 0 |
 | [lib_llama_cpp](https://github.com/gsmlg-app/lib_llama_cpp) | Dart | 0 | 0 |
+| [lib_litert_lm](https://github.com/gsmlg-app/lib_litert_lm) | Dart | 0 | 0 |
+| [lib_mlx](https://github.com/gsmlg-app/lib_mlx) | Swift | 0 | 0 |
 
 <!-- REPO_LIST:END -->
