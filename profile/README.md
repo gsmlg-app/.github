@@ -18,7 +18,7 @@ The development information of `gsmlg.app`.
 | [mobile-hex-pm](https://github.com/gsmlg-app/mobile-hex-pm) | Dart | 1 | 0 |
 | [.github](https://github.com/gsmlg-app/.github) | N/A | 0 | 0 |
 | [medical-records](https://github.com/gsmlg-app/medical-records) | Dart | 0 | 0 |
-| [gsmlg](https://github.com/gsmlg-app/gsmlg) | Dart | 0 | 0 |
+| [gsmlg](https://github.com/gsmlg-app/gsmlg) | Dart | 0 | 1 |
 | [data_visualization](https://github.com/gsmlg-app/data_visualization) | Dart | 0 | 0 |
 | [homelab-simulator](https://github.com/gsmlg-app/homelab-simulator) | Dart | 0 | 0 |
 | [caddy-app](https://github.com/gsmlg-app/caddy-app) | Dart | 0 | 0 |
@@ -27,5 +27,7 @@ The development information of `gsmlg.app`.
 | [lib_llama_cpp](https://github.com/gsmlg-app/lib_llama_cpp) | Dart | 0 | 0 |
 | [lib_litert_lm](https://github.com/gsmlg-app/lib_litert_lm) | Dart | 0 | 0 |
 | [lib_mlx](https://github.com/gsmlg-app/lib_mlx) | Swift | 0 | 0 |
+| [lib_onnx](https://github.com/gsmlg-app/lib_onnx) | Dart | 0 | 0 |
+| [secrethub_agent](https://github.com/gsmlg-app/secrethub_agent) | Dart | 0 | 0 |
 
 <!-- REPO_LIST:END -->
